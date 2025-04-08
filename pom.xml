@@ -245,7 +245,7 @@
 		<mysql-connector-java.version>8.0.32</mysql-connector-java.version>
 		<guava.version>32.0.0-jre</guava.version>
 		<passay.version>1.0</passay.version>
-        <logstash-logback-encoder.version>4.8</logstash-logback-encoder.version>
+        <logstash-logback-encoder.version>8.1</logstash-logback-encoder.version>
         <aerogear.version>1.0.0</aerogear.version>
         <uap-java.version>1.4.0</uap-java.version>
         <geoip2.version>2.15.0</geoip2.version>
