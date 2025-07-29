@@ -235,7 +235,7 @@
 		<jakarta.servlet-api.version>6.1.0</jakarta.servlet-api.version>
 		<mysql-connector-java.version>8.0.32</mysql-connector-java.version>
 		<guava.version>32.0.0-jre</guava.version>
-		<passay.version>1.0</passay.version>
+		<passay.version>1.3.0</passay.version>
         <logstash-logback-encoder.version>4.8</logstash-logback-encoder.version>
         <aerogear.version>1.0.0</aerogear.version>
         <uap-java.version>1.4.0</uap-java.version>
